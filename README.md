@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He\Him
 - ⚡ Fun fact: Time is an stubborn illusion.
 -->
+[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekmaldikar)](https://github.com/anuraghazra/github-readme-stats)
